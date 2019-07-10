@@ -6,9 +6,9 @@ import {
   infoColor,
   roseColor,
   grayColor,
-  blackColor,
-  defaultFont,
-  hexToRgb
+  //blackColor,
+  defaultFont
+  // hexToRgb
 } from "assets/jss/material-dashboard-pro-react.jsx";
 
 const tableStyle = theme => ({

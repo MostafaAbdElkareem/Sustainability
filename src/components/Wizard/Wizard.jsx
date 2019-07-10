@@ -235,10 +235,10 @@ class Wizard extends React.Component {
       <div className={classes.wizardContainer} ref="wizard">
         <Card className={classes.card}>
           <Button justIcon color="transparent" className={classes.flotRight}>
-            <img width="32" src={Save} />
+            <img width="32" alt="" src={Save} />
           </Button>
           <Button justIcon color="transparent" className={classes.flotRight}>
-            <img width="32" src={Cancel} />
+            <img width="32" alt="" src={Cancel} />
           </Button>
           <div className={classes.wizardHeader}>
             <h3 className={classes.title}>{title}</h3>
